@@ -8,10 +8,10 @@
     "mandante": {
     "nome": "JIParana FC"
       "forca":5,
-      "imagem": "TODO"
+      "imagem": "https://upload.wikimedia.org/wikipedia/pt/5/54/Ji-Paran%C3%A1FutebolClube.png"
     },
     "visitante": {
-    "nome": "Vilhena FC"
+    "nome": "https://upload.wikimedia.org/wikipedia/pt/f/f1/VilhenaEC.png"
       "forca":5,
       "imagem": "TODO"
     }        
