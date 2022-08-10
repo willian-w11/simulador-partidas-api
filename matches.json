@@ -1,1 +1,20 @@
-
+[
+  {
+  "descricao": "Super Camepoes de RO",
+    "local":{
+    "Nome": "Biacao",
+      "imagem": "TODO"
+    },
+    "mandante": {
+    "nome": "JIParana FC"
+      "forca":5,
+      "imagem": "TODO"
+    },
+    "visitante": {
+    "nome": "Vilhena FC"
+      "forca":5,
+      "imagem": "TODO"
+    }        
+  }  
+  ]
+ 
